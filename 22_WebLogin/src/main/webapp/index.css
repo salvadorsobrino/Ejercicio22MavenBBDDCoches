@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* Hoja de estilo index */
+h1, h5 {
+	 color: orange;
+	 text-align: center;
+}
+body{
+	background-color: rgb(255, 255, 128);
+    background-size: cover;
+    text-align: center;
+}
+#formulario{
+	background-color: rgb(255, 128, 64);
+	border-style: solid;
+	border-width: thin;
+	border-color: white;
+	width: 50%;
+	height: auto;
+	margin-top: 10%;
+	margin-left: 20%;
+	text-align:center;
+	padding: 5%;
+	
+}
